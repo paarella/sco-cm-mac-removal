@@ -4,6 +4,8 @@
 
 This System Center Orchestrator (SCORCH) runbook automates the removal of a MAC address record from the Microsoft Endpoint Configuration Manager (MECM/SCCM) database. It is designed to be triggered from the Orchestrator Web Console, accepting one or two MAC addresses as input, and handles the full lifecycle of lookup, validation, deletion, and email notification.
 
+This script was generated with the assistance of AI and was reviewed and verified by Pablo A.
+
 ## Runbook Name
 
 **Delete Machine**
